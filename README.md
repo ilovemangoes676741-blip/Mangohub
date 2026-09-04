@@ -39,9 +39,9 @@ This hub includes the following scripts:
 | Button | Script Name | What It Does |
 |--------|-------------|--------------|
 | 1 | DropKick | A universal script by Platinww |
-| 2 | InvicibleFly | Fly script that auto-detects if you're on mobile or PC |
+| 2 | InvicibleFly | Fly script that auto-detects if you're on mobile or PC its from the show invicible |
 | 3 | InfYield | Infinite Yield - a powerful admin command script |
-| 4 | AjaanHub | Loads AjaanHub |
+| 4 | AjaanHub | Loads AjaanHub Works for some games like steal an egg|
 | 5 | MM2HUB | Hub for Murder Mystery 2 |
 | 6 | TSBhub | Hub for The Strongest Battlegrounds |
 | 7-23 | Available | More scripts coming soon! |
