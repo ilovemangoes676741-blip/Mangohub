@@ -61,6 +61,8 @@ loadstring(game:HttpGet("https://pastebin.com/raw/2QAH3zMg"))()
 
 Then just press on what script you want to load Have fun :) Hope you like it
 
+Join my Discord Server! at https://discord.gg/gYsP66B8Z!
+
 ## Credits
 
 - **oliver039455** - For testing on Potassium ⚙️
