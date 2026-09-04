@@ -38,7 +38,7 @@ This hub includes the following scripts:
 
 | Button | Script Name | What It Does |
 |--------|-------------|--------------|
-| 1 | DropKick | A universal script by Platinww |
+| 1 | DropKick | A fling script with animations basically its the one from tiktok |
 | 2 | InvicibleFly | Fly script that auto-detects if you're on mobile or PC its from the show invicible |
 | 3 | InfYield | Infinite Yield - a powerful admin command script |
 | 4 | AjaanHub | Loads AjaanHub Works for some games like steal an egg|
