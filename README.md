@@ -56,7 +56,7 @@ Using the Mangolovers Hub is super simple! Here's how it works:
 
 Copy and paste this into your executor:
 
-```lua
-loadstring(game:HttpGet("https://pastebin.com/raw/StiDu4i2"))()
 
-Then just press on what script you want to load Have fun :)
+loadstring(game:HttpGet("https://pastebin.com/raw/2QAH3zMg"))()
+
+Then just press on what script you want to load Have fun :) Hope you like it
